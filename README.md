@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: vshathiskannan@gmail.com
 - 😎 LinkedIn : https://www.linkedin.com/in/shathis-kannan-v-1b5073237 or Search as Shathis Kannan V 
 - 😄 Pronouns: Shathis Kannan
-- ⚡ Fun fact: I'm actually doing coding constantly while everyone slep on there bed.
+- ⚡ Fun fact: I'm actually doing coding constantly while everyone slept on there bed.
 
