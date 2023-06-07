@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **ShathisKannan19/ShathisKannan19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😎 LinkedIn : https://www.linkedin.com/in/shathis-kannan-v-1b5073237 or Search as Shathis Kannan V 
 - 😄 Pronouns: Shathis Kannan
 - ⚡ Fun fact: I'm actually doing coding constantly while everyone slep on there bed.
--->
+
