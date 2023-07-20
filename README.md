@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 
-**ShathisKannan19/ShathisKannan19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ShathisKannan19** is a ✨ _Hello special one_ ✨
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web Development and React Js
 - 🌱 I’m currently learning Block-Chain , Artificial Intelligence and React Js like Web Based Frameworks.
