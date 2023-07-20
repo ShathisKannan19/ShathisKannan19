@@ -1,7 +1,7 @@
 ✨ _Hello special one_ ✨
 
 
-**I am ShathisKannan My Github Id id ShathisKannan19**
+**I am ShathisKannan My Github Id is ShathisKannan19**
 
 
 - 🔭 I’m currently working on Web Development and React Js
