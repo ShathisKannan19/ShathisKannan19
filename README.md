@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Block-Chain , Artificial Intelligence and React Js like Web Based Frameworks.
 - 💬 Ask me about how to start learn coding
 - 📫 How to reach me: vshathiskannan@gmail.com
-- 😎 LinkedIn : https://www.linkedin.com/in/shathis-kannan-v-1b5073237 or Search as Shathis Kannan V 
+- 😎 LinkedIn : https://www.linkedin.com/in/shathis-kannan-v or Search as Shathis Kannan V 
 - 😄 Pronouns: Shathis Kannan Developer
 - ⚡ Fun fact: I'm actually doing coding constantly while everyone slept on their bed.
 
