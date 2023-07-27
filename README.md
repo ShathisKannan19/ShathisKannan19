@@ -4,7 +4,7 @@
 **I am ShathisKannan My Github Id is ShathisKannan19**
 
 
-- 🔭 I’m currently working on Web Development and React Js
+- 🔭 I’m currently working on Web Development - React Js and AI/ML.
 - 🌱 I’m currently learning Block-Chain , Artificial Intelligence and React Js like Web Based Frameworks.
 - 💬 Ask me about how to start learn coding
 - 📫 How to reach me: vshathiskannan@gmail.com
