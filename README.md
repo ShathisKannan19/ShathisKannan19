@@ -2,7 +2,6 @@
 
 
 **I am ShathisKannan My Github Id is ShathisKannan19**
-
 <div align="center">
   <img height="264" src="https://avatars.githubusercontent.com/u/110104103?s=400&u=75e7af1b99edf81de2ee9c75eac9578fc97ec8c2&v=4"  />
 </div>
