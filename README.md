@@ -1,5 +1,6 @@
 ✨ _Hello special one_ ✨
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShathisKannan19&label=Profile%20views&color=0e75b6&style=flat" alt="ShathisKannan19" /> </p>
 
 **I am ShathisKannan My Github Id is ShathisKannan19**
 <div align="center">
